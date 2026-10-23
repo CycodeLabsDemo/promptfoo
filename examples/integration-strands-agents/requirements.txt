@@ -7,7 +7,7 @@
 
 # Strands Agents SDK with OpenAI model support
 # https://strandsagents.com/latest/user-guide/concepts/model-providers/openai/
-strands-agents[openai]>=1.0.0,<2.0.0
+strands-agents[openai]==1.43.0
 
 # Pydantic for data validation (required by Strands)
 # https://docs.pydantic.dev/
